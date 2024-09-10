@@ -1,0 +1,8 @@
+*.json
+/build
+src/api/schema.yml
+README.md
+public/index.html
+src/api/gen
+*.lock
+src/api/schema.d.ts
